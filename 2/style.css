@@ -10,9 +10,6 @@ body{
     min-height: 100vh;
     background-color: #1c1c1c;
 }
-.container{
-
-}
 .star{
     border: 10px double gray;
     position: relative;
